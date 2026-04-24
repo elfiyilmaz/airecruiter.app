@@ -1,0 +1,3 @@
+git rm "PROJECT DESCRIPTION.pdf"
+git commit -m "removed pdf"
+git push
